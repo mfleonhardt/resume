@@ -4,9 +4,9 @@
 
 [matthewleonhardt@outlook.com](mailto::matthewleonhardt@outlook.com) :: [linkedin.com/in/matthewleonhardt](https://www.linkedin.com/in/matthewleonhardt/) :: Tucson, AZ
 
----
+
 ## WORK EXPERIENCE 
----
+
 <p>
     <strong>In Time Tec</strong><span style="float: right"><strong>Sep. 2021–Present</strong></span><br>
     <em>Software Architect</em><span style="float: right"><em>Remote, Boise, ID</em></span>
@@ -51,8 +51,6 @@
 
 ## EDUCATION
 
----
-
 <p>
     <strong>Syracuse University</strong><br>
     <em>M.S. in Information Management</em><span style="float: right"><em>Syracuse, NY</em></span>
@@ -67,8 +65,6 @@
 </p>
 
 ## CERTIFICATIONS, SKILLS & INTERESTS 
-
----
 
 **Certifications:**
 
