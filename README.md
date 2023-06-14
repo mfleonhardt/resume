@@ -8,8 +8,16 @@
 ## WORK EXPERIENCE 
 
 <p>
-    <strong>In Time Tec</strong><span style="float: right"><strong>Sep. 2021–Present</strong></span><br>
-    <em>Software Architect</em><span style="float: right"><em>Remote, Boise, ID</em></span>
+    <table width="100%">
+        <tr>
+            <th>In Time Tec</th><th align="right">Sep. 2021-Present</th>
+        </tr>
+        <tr>
+            <td><em>Software Architect</em></td><td align="right"><em>Remote, Boise, ID</em></td>
+        </tr>
+    </table>
+    <!-- <strong>In Time Tec</strong><span style="float: right"><strong>Sep. 2021–Present</strong></span><br>
+    <em>Software Architect</em><span style="float: right"><em>Remote, Boise, ID</em></span> -->
 </p>
 
 * Lead 5 Scrum teams totaling up to 25 software and quality engineers, ensuring high standards and quality of project delivery.  
