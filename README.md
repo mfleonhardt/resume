@@ -60,6 +60,7 @@
 
 ### Certifications
 
+* AWS Certified Sysops Administrator - Associate, Amazon Web Services Training and Certification, 2023
 * AWS Certified Solutions Architect – Associate, Amazon Web Services Training and Certification, 2021 
 * IT Infrastructure Library (ITIL), APMG International 
   * Intermediate: Continual Service Improvement, 2016 
